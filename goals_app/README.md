@@ -1,24 +1,15 @@
-# README
+# Goals Setter App Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Learning Goals
+* Know how to write model and controller tests using RSpec
+* Know how to write integration tests using Capybara and RSpec
+* Know what and when to test
+* Understand how to test behavior rather than implementation
+* Learn to develop one feature at a time (the 'slices' approach)
+* Recognize how concerns and polymorphic associations can dry up your code
 
-Things you may want to cover:
+## Setup
+Make project 
+Set up testing gems in Gemfile
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Phase 1: User Creation and Login
